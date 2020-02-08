@@ -1,5 +1,5 @@
 {
-  "homepage":"https://C4vemann.github.io/My_First_React_App",
+  "homepage": "http://C4vemann.github.io/My_First_React_App",  
   "name": "My_First_React_App",
   "version": "0.1.0",
   "private": true,
@@ -12,8 +12,8 @@
     "react-scripts": "3.3.1"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d buils",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
