@@ -1,0 +1,31 @@
+body{
+  background:pink;
+  text-align:center;
+  padding-top:30px;
+}
+
+.counter-element{
+	float:left;
+	padding:2%;
+	width: 100% / 4;
+}
+.answer-good{
+	font-size:3em;
+	color:green;
+}
+.answer-bad{
+	font-size:3em;
+	color:red;
+}
+
+.butt{
+	margin-top:30px;
+	height:100px;
+	width:200px;
+	font-size:2em;
+}
+
+.total{
+	padding-left:2%;
+	text-align:left;
+}
